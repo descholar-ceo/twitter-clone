@@ -21,12 +21,13 @@
 }
 
 .image {
+  border-radius: 50%;
+
+  img {
     border-radius: 50%;
-    img {
-        border-radius: 50%;
-    }
+  }
 }
 
-.notification:not(:last-child){
-    margin-bottom: 0;
+.notification:not(:last-child) {
+  margin-bottom: 0;
 }
