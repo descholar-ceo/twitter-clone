@@ -25,6 +25,7 @@ gem 'jbuilder', '~> 2.7'
 # bulma
 gem 'bulma-rails', '~> 0.9.0'
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
+gem 'gravatar_image_tag', '~> 1.2'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
