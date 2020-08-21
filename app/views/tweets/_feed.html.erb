@@ -17,7 +17,7 @@
         <div class="media">
             <div class="media-alert">
                 <figure class="image is-64x64">
-                    <%= gravatar_image_tag(current_user.email, size: 64, alt: current_user.name) %>
+                    <%= gravatar_image_tag(tweet.user.email, size: 64, alt: tweet.user.name) %>
                 </figure>
             </div>
             <div class="media-content">
