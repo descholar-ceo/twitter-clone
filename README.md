@@ -57,3 +57,4 @@ Give a ⭐️ if you like this project!
 ## Acknowledgment
 * [Microverse](https://www.microvese.org)
 * [The Odin Project](https://www.theodinproject.com)
+* [Andy Leverenz](https://github.com/justalever) => For his great [tutorials](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo) which helped me so much while building this project
